@@ -1,0 +1,27 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+#form1{
+    height: 500px;
+    width: 400px;
+    padding: 20px;
+    margin: 10px 10px 20px 20px;
+    display: inline-block;
+}
+input{
+    margin-left: 200px;
+    size: 20px;
+    padding: 2px;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+}
+#bnt{
+    margin: 20px 20px 10px 1px;
+}
+
+table, thead, tr, th, tbody, td{
+    border: 2px solid black;
+}
